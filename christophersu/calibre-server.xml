@@ -27,11 +27,11 @@
   </Networking>
   <Environment>
     <Variable>
-      <Name>USERNAME</Name>
+      <Name>CALIBERUSER</Name>
       <Value>csu</Value>
     </Variable>
     <Variable>
-      <Name>PASSWORD</Name>
+      <Name>CALIBREPASS</Name>
       <Value>mypass</Value>
     </Variable>
   </Environment>    
